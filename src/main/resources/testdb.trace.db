@@ -1,0 +1,4 @@
+2023-06-11 17:09:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * FROM TASK TASK [*]TASK TASK"
+Syntax error in SQL statement "SELECT * FROM TASK TASK [*]TASK TASK"; SQL statement:
+SELECT * FROM TASK TASK TASK TASK [42000-214]
