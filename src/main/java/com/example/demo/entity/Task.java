@@ -18,9 +18,14 @@ public class Task {
     public Task(){
     }
 
+    public Task(String name) {
+        this.name = name;
+    }
+
     public Task(String name, Status status) {
         this.name = name;
         this.status = status;
+
     }
 
 //    public String getName() {
